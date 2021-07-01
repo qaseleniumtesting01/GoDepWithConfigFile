@@ -15,5 +15,5 @@ steps:
 
 - task: WhiteSource@20
   inputs:
-    cwd: '$(System.DefaultWorkingDirectory)'
+    cwd: 'C:\Users\SaharItzhak\Desktop'
     projectName: 'C5788979'
